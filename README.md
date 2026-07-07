@@ -14,7 +14,7 @@ I study Computer Science at **TH Mannheim**. One day, I want to build **prosthet
 * I like to think, thinker and build.
 * I speak: English, German and a small bit of Russian
   
-### Tech-Stack
+### 🛠Tech-Stack
 I'm currently figuring things out and leveling up my skills,
 feel free to follow along on my journey!
 - **Currently refining:** C & C++ (diving deeper into low-level mechanics)
