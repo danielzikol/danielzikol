@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Daniel. Glad you found your way here. 🐾
+I study Computer Science at **TH Mannheim**. One day, I want to build **prosthetics and work on embedded systems**, combining low-level programming with hardware that actually helps people.
+<pre>
+  /\_/\  (
+ ( ^.^ ) _)
+   \"/  (
+ ( | | )
+(__d b__)
+</pre>
 
-<!--
-**danielzikol/danielzikol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 THAT'S WHO I AM :P
+* 🎓 I am a Computer Science Student at **Mannheim University of Applied Sciences** in Germany
+- 🐈 **Co-Pilot:** My 13-year-old cat, Sjava
+- I like to think, thinker and build.
+* I speak: English, German and a small bit Russian
+  
+### Tech-Stack
+I'm currently figuring things out and leveling up my skills—feel free to follow along on my journey!
+- **Currently refining:** C & C++ (diving deeper into low-level mechanics)
+- Java
+- **Next on my learning list:** Rust & Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Interests
+- **Hardware:** Custom PC Builds
+- **Co-Manager:** Sjava 🐈
+- **DID I MENTION THAT I LOVE CATS???** --> No? **I LOVE EM**
+- **NOW YOU KNOW :p**
