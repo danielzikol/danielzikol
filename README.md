@@ -15,7 +15,8 @@ I study Computer Science at **TH Mannheim**. One day, I want to build **prosthet
 * I speak: English, German and a small bit Russian
   
 ### Tech-Stack
-I'm currently figuring things out and leveling up my skills—feel free to follow along on my journey!
+I'm currently figuring things out and leveling up my skills
+feel free to follow along on my journey!
 - **Currently refining:** C & C++ (diving deeper into low-level mechanics)
 - Java
 - **Next on my learning list:** Rust & Python
