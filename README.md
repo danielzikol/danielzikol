@@ -21,7 +21,7 @@ I'm currently figuring things out and leveling up my skills—feel free to follo
 - **Next on my learning list:** Rust & Python
 
 ### ⚡ Interests
-- **Hardware:** Custom PC Builds
+- **Hardware:** I love to config PC Builds
 - **Co-Manager:** Sjava 🐈
 - **DID I MENTION THAT I LOVE CATS???** --> No? **I LOVE EM**
 - **NOW YOU KNOW :p**
