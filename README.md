@@ -12,7 +12,7 @@ I study Computer Science at **TH Mannheim**. One day, I want to build **prosthet
 * 🎓 I am a Computer Science Student at **Mannheim University of Applied Sciences** in Germany
 * 🐈 **Co-Pilot:** My 13-year-old cat, Sjava
 * I like to think, thinker and build.
-* I speak: English, German and a small bit Russian
+* I speak: English, German and a small bit of Russian
   
 ### Tech-Stack
 I'm currently figuring things out and leveling up my skills,
