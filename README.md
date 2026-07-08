@@ -19,7 +19,7 @@ I'm currently figuring things out and leveling up my skills,
 feel free to follow along on my journey!
 - **Currently refining:** C & C++ (diving deeper into low-level mechanics)
 - Java
-- **Next on my learning list:** Rust & Python
+- **Next on my learning list:** Rust & Python & Lua
 
 ### ⚡ Interests
 - **Hardware:** I love to config PC Builds
