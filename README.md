@@ -1,4 +1,4 @@
-# Hey, I'm Daniel. Glad you found your way here. 🐾
+# Hey, I'm Daniel Zikol. Glad you found your way here. 🐾
 I study Computer Science at **TH Mannheim**. One day, I want to build **prosthetics and work on embedded systems**, combining low-level programming with hardware that actually helps people.
 <pre>
   /\_/\  (
