@@ -17,12 +17,10 @@ I study Computer Science at **TH Mannheim**. One day, I want to build **prosthet
 ### 🛠Tech-Stack
 I'm currently figuring things out and leveling up my skills,
 feel free to follow along on my journey!
-- **Currently refining:** C & C++ (diving deeper into low-level mechanics)
-- Java
-- **Next on my learning list:** Rust & Python & Lua
+- **Currently refining:** `C` | `C++` & `Java`
+- **Next on my learning list:** `Rust` & `Python` & `Lua`
 
-### ⚡ Interests
+### ⚡ Interests & funfacts
 - **Hardware:** I love to config PC Builds
 - **Co-Manager:** Sjava 🐈
-- **DID I MENTION THAT I LOVE CATS???** --> No? **I LOVE EM**
-- **NOW YOU KNOW :p**
+- **Cat Enthusiast**: Yes, I absolutely love cats. Sjava keeps my code bugs-free (or at least tries to).
